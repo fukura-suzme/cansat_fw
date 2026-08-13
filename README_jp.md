@@ -1,7 +1,11 @@
 # CanSat Indoor Data Logger
 
 
+
+### README English version
+
 README English: [README.md](./README.md)
+
 
 
 Wio Terminalと気圧センサーを使用し、降下・一時停止・着地の検知とデータ保全をエレベーターを用いて地上検証するCanSatモデルです。
