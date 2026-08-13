@@ -1,11 +1,11 @@
 # CanSat Indoor Data Logger
 
 
-### 日本語版Readme
+### 日本語版README
 
-日本語版Readme: [README_jp.md](./README_jp.md)
+日本語版README: [README_jp.md](./README_jp.md)
 
-
+---
 
 A CanSat model built with a Wio Terminal and a pressure sensor, ground-tested using an elevator to verify descent detection and data integrity during communication loss.
 
